@@ -4,7 +4,7 @@
 
   <groupId>neu.sxc</groupId>
   <artifactId>expression-analyzer</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.3</version>
   <packaging>jar</packaging>
 
   <name>expression-analyzer</name>
