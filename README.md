@@ -3,7 +3,7 @@ expression-analyzer
 
 基于有限自动机和LL(1)分析法实现的公式解析器。
 
-[Wiki](https://github.com/junit-team/junit/wiki)
+[Wiki](https://github.com/shanxuecheng/expression-analyzer/wiki)
 
 具备以下功能：
 
