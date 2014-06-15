@@ -1,7 +1,6 @@
 expression-analyzer
 ===================
 
-create expression analyzer
 基于有限自动机和LL(1)分析法实现的公式解析器，具备以下功能：
 
 1)实现了算术和逻辑表达式的解析，可使用单条或多条语句，表达式中可使用注释；
